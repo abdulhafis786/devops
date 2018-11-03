@@ -1,2 +1,3 @@
 This is a new file in feat branch
 I know I am creating the file here
+new file new file`:wq
