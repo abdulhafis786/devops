@@ -1,0 +1,6 @@
+This is my second file. So far so good
+ Lets hope something works out in this
+Lets hope this works
+again doing the same in git diff command
+really boring sunday
+Trying to unstage the staged file

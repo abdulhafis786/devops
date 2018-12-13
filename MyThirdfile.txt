@@ -1,0 +1,5 @@
+ I am just trying to see houw git status in short would work 
+Trying the git diff command
+trying to undo the things which i commited
+Trying another option with Git
+Doing a change to the commited stuff to check with abend
