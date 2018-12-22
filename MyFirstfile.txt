@@ -2,3 +2,4 @@ Still not yet with my second commit. Let see
 This is my first file created for git on 4th of December. I hope that I learn Git as much as I can before the end of this month. Then I would update the same
 making changes to an staged file
 trying to skip the staging area
+Trying few things with pull and Fetch command
