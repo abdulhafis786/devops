@@ -3,3 +3,4 @@ This is my first file created for git on 4th of December. I hope that I learn Gi
 making changes to an staged file
 trying to skip the staging area
 Trying few things with pull and Fetch command
+Now trying the pull command
